@@ -1,6 +1,6 @@
 import requests
 
-base_url = "https://vid4.zvde-dsn-05.site/Ant-Man-Ahbabt/{}.mp4"
+base_url = "https://web-site-name/serie-name/{}.mp4"
 
 for number in range(1, 53):
     url = base_url.format(number)
