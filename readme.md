@@ -47,7 +47,7 @@ pip install requests
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/auto-series-downloader.git
+git clone https://github.com/AhmedBassoul1/auto-series-downloader.git
 cd auto-series-downloader
 ```
 
